@@ -8,6 +8,11 @@
 - I'm an early4 : https://fernando.kr/develop/2020-05-02-github-gist-posting/
 - Stats_Card : https://zzsza.github.io/development/2020/07/10/make-github-profile-readme/
 - VSCODE & GIT : https://technote.kr/354
+- GIT 기초사용법 - 시작하기: https://evan-moon.github.io/2019/07/25/git-tutorial/#%ED%95%84%EC%88%98-%EB%AA%85%EB%A0%B9%EC%96%B4%EB%93%A4%EC%9D%84-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90
+- GIT 기초사용법 - 버전관리: https://evan-moon.github.io/2019/07/28/git-tutorial-advanced/#merge-conflict
 
+# Django
+- 설문지 만들기: https://www.notion.so/MBIT-My-Best-IT-personalities-3d9128d972054b498b98365f1df4e656
+- 
 # HTML
 - Markdown : https://gist.github.com/POPCORN-DOG/9bc66f167c6585f083b7e89950239cba
